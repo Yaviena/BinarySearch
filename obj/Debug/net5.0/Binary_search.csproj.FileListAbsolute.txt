@@ -1,0 +1,16 @@
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\Binary_search.exe
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\Binary_search.deps.json
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\Binary_search.runtimeconfig.json
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\Binary_search.runtimeconfig.dev.json
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\Binary_search.dll
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\ref\Binary_search.dll
+E:\PROGRAMMING\C#\Binary_search\bin\Debug\net5.0\Binary_search.pdb
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.csproj.AssemblyReference.cache
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.AssemblyInfoInputs.cache
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.AssemblyInfo.cs
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.dll
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\ref\Binary_search.dll
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.pdb
+E:\PROGRAMMING\C#\Binary_search\obj\Debug\net5.0\Binary_search.genruntimeconfig.cache
